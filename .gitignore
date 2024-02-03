@@ -1,0 +1,13 @@
+#all the files in oth directory
+oth/
+
+result/
+
+
+#all the files in _pycache_ directory (.pyc files)
+*.pyc
+
+#weights files
+*.h5
+*.weights
+
